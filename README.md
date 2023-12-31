@@ -1,6 +1,6 @@
 # IpaExtractionSuite
 
-IpaExtractionSuite is a user-friendly tool designed for cybersecurity professionals, especially those involved in mobile application pentesting (penetration testing). It simplifies the process of extracting .ipa files (iOS app files) from jailbroken iPhones. This tool is particularly useful for professionals looking to understand the structure of iOS applications, analyze their jailbreak detection mechanisms, and investigate SSL pinning techniques.
+IpaExtractionSuite is a user-friendly tool designed for cybersecurity professionals, especially those involved in **mobile application pentesting**. It simplifies the process of extracting .ipa files (iOS app files) from jailbroken iPhones. This tool is particularly useful for professionals looking to understand the structure of iOS applications, analyze their jailbreak detection mechanisms, and investigate SSL pinning techniques.
 
 Utilizing IpaExtractionSuite, pentesters can efficiently retrieve app files for further analysis using tools like Ghidra or Hopper. This facilitates deeper insights into how applications implement security measures, including jailbreak prevention and SSL pinning, thereby aiding in a more thorough security analysis.
 
